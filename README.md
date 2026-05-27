@@ -29,13 +29,7 @@ O conteúdo é ideal para estudantes e iniciantes que desejam colocar em prátic
 git clone https://github.com/Fernanda-taira/Comprova-es-dados.git
 ```
 
-2. Acesse o diretório:
-
-```bash
-cd seu-repositorio
-```
-
-3. Abra o notebook no Jupyter ou Google Colab:
+2. Abra o notebook no Jupyter ou Google Colab:
 
 - [Google Colab](https://colab.research.google.com/)
 - Ou localmente com:  
