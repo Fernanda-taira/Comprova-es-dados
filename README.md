@@ -31,7 +31,7 @@ git clone https://github.com/Fernanda-taira/Comprova-es-dados.git
 
 2. Abra o notebook no Jupyter ou Google Colab:
 
-- [Google Colab](https://colab.research.google.com/)
+- [Google Colab](https://colab.research.google.com/drive/1RkW3HLM30baN6sWlIJEfIeozD74i8IRU?usp=sharing)
 - Ou localmente com:  
   ```bash
   jupyter notebook
