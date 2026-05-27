@@ -26,7 +26,7 @@ O conteúdo é ideal para estudantes e iniciantes que desejam colocar em prátic
 1. Clone este repositório:
 
 ```bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/Fernanda-taira/Comprova-es-dados.git)
+git clone https://github.com/Fernanda-taira/Comprova-es-dados.git
 ```
 
 2. Acesse o diretório:
